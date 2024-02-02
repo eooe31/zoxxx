@@ -173,7 +173,7 @@ Caught by a sheikh 💸
         isclaim.clear()
         isclaim.append("off")
         trys = ""
-        await event.client.send_message(event.chat_id, "⤷ 𝚃𝙷𝙴 𝙷𝚄𝙽𝚃𝙸𝙽𝙶 𝙸𝚂 𝙾𝚅𝙴𝚁 𝙾𝚁 𝚃𝙷𝙴 𝙼𝙴𝚂𝚂𝙰𝙶𝙴𝚂 𝙾𝙵 𝚃𝙷𝙴 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ⏎")
+        await event.client.send_message(event.chat_id, "⤷ 𝚃𝙷𝙴 𝙷𝚄𝙽𝚃𝙸𝙽𝙶 𝙸𝚂 𝙾𝚅𝙴𝚁 𝙾𝚁 𝚃𝙷𝙴 𝙼𝙴𝚂𝚂𝙰𝙶𝙴𝚂 𝙾𝙵 𝚃𝙷𝙴 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ⏎ @x_o_x")
         
 @sython.on(events.NewMessage(outgoing=True, pattern=r"\.تثبيت (.*)"))
 async def _(event):
